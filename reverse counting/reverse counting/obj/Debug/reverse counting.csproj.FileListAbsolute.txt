@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c sharp\reverse counting\reverse counting\bin\Debug\reverse counting.exe.config
+C:\Users\User\Desktop\c sharp\reverse counting\reverse counting\bin\Debug\reverse counting.exe
+C:\Users\User\Desktop\c sharp\reverse counting\reverse counting\bin\Debug\reverse counting.pdb
+C:\Users\User\Desktop\c sharp\reverse counting\reverse counting\obj\Debug\reverse counting.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c sharp\reverse counting\reverse counting\obj\Debug\reverse counting.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c sharp\reverse counting\reverse counting\obj\Debug\reverse counting.exe
+C:\Users\User\Desktop\c sharp\reverse counting\reverse counting\obj\Debug\reverse counting.pdb

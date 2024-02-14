@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse counting", "reverse counting\reverse counting.csproj", "{588F13F6-5DC2-48A1-8BA1-CA019B0DF765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588F13F6-5DC2-48A1-8BA1-CA019B0DF765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588F13F6-5DC2-48A1-8BA1-CA019B0DF765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588F13F6-5DC2-48A1-8BA1-CA019B0DF765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588F13F6-5DC2-48A1-8BA1-CA019B0DF765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08468E9E-CEF5-45EC-B2A4-A8043F9B5801}
+	EndGlobalSection
+EndGlobal
